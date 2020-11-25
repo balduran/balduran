@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Balduran's github stats](https://github-readme-stats.vercel.app/api?username=balduran)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balduran&layout=compact)]()
+
 <!--
 **balduran/balduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
